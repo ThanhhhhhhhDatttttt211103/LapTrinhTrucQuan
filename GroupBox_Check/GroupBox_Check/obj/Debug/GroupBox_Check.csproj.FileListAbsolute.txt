@@ -1,0 +1,11 @@
+D:\Laptrinh\C#\WindowsFormsApp\GroupBox_Check\GroupBox_Check\bin\Debug\GroupBox_Check.exe.config
+D:\Laptrinh\C#\WindowsFormsApp\GroupBox_Check\GroupBox_Check\bin\Debug\GroupBox_Check.exe
+D:\Laptrinh\C#\WindowsFormsApp\GroupBox_Check\GroupBox_Check\bin\Debug\GroupBox_Check.pdb
+D:\Laptrinh\C#\WindowsFormsApp\GroupBox_Check\GroupBox_Check\obj\Debug\GroupBox_Check.csproj.AssemblyReference.cache
+D:\Laptrinh\C#\WindowsFormsApp\GroupBox_Check\GroupBox_Check\obj\Debug\GroupBox_Check.csproj.SuggestedBindingRedirects.cache
+D:\Laptrinh\C#\WindowsFormsApp\GroupBox_Check\GroupBox_Check\obj\Debug\GroupBox_Check.Form1.resources
+D:\Laptrinh\C#\WindowsFormsApp\GroupBox_Check\GroupBox_Check\obj\Debug\GroupBox_Check.Properties.Resources.resources
+D:\Laptrinh\C#\WindowsFormsApp\GroupBox_Check\GroupBox_Check\obj\Debug\GroupBox_Check.csproj.GenerateResource.cache
+D:\Laptrinh\C#\WindowsFormsApp\GroupBox_Check\GroupBox_Check\obj\Debug\GroupBox_Check.csproj.CoreCompileInputs.cache
+D:\Laptrinh\C#\WindowsFormsApp\GroupBox_Check\GroupBox_Check\obj\Debug\GroupBox_Check.exe
+D:\Laptrinh\C#\WindowsFormsApp\GroupBox_Check\GroupBox_Check\obj\Debug\GroupBox_Check.pdb

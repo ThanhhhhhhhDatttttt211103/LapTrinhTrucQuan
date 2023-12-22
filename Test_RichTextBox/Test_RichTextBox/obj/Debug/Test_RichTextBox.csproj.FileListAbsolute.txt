@@ -1,0 +1,11 @@
+D:\Laptrinh\C#\WindowsFormsApp\Test_RichTextBox\Test_RichTextBox\bin\Debug\Test_RichTextBox.exe.config
+D:\Laptrinh\C#\WindowsFormsApp\Test_RichTextBox\Test_RichTextBox\bin\Debug\Test_RichTextBox.exe
+D:\Laptrinh\C#\WindowsFormsApp\Test_RichTextBox\Test_RichTextBox\bin\Debug\Test_RichTextBox.pdb
+D:\Laptrinh\C#\WindowsFormsApp\Test_RichTextBox\Test_RichTextBox\obj\Debug\Test_RichTextBox.csproj.AssemblyReference.cache
+D:\Laptrinh\C#\WindowsFormsApp\Test_RichTextBox\Test_RichTextBox\obj\Debug\Test_RichTextBox.csproj.SuggestedBindingRedirects.cache
+D:\Laptrinh\C#\WindowsFormsApp\Test_RichTextBox\Test_RichTextBox\obj\Debug\Test_RichTextBox.Form1.resources
+D:\Laptrinh\C#\WindowsFormsApp\Test_RichTextBox\Test_RichTextBox\obj\Debug\Test_RichTextBox.Properties.Resources.resources
+D:\Laptrinh\C#\WindowsFormsApp\Test_RichTextBox\Test_RichTextBox\obj\Debug\Test_RichTextBox.csproj.GenerateResource.cache
+D:\Laptrinh\C#\WindowsFormsApp\Test_RichTextBox\Test_RichTextBox\obj\Debug\Test_RichTextBox.csproj.CoreCompileInputs.cache
+D:\Laptrinh\C#\WindowsFormsApp\Test_RichTextBox\Test_RichTextBox\obj\Debug\Test_RichTextBox.exe
+D:\Laptrinh\C#\WindowsFormsApp\Test_RichTextBox\Test_RichTextBox\obj\Debug\Test_RichTextBox.pdb

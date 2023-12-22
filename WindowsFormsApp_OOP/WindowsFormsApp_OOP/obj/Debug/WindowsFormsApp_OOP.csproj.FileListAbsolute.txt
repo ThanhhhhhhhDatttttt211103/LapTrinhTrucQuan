@@ -1,0 +1,11 @@
+D:\Laptrinh\C#\WindowsFormsApp_OOP\WindowsFormsApp_OOP\bin\Debug\WindowsFormsApp_OOP.exe.config
+D:\Laptrinh\C#\WindowsFormsApp_OOP\WindowsFormsApp_OOP\bin\Debug\WindowsFormsApp_OOP.exe
+D:\Laptrinh\C#\WindowsFormsApp_OOP\WindowsFormsApp_OOP\bin\Debug\WindowsFormsApp_OOP.pdb
+D:\Laptrinh\C#\WindowsFormsApp_OOP\WindowsFormsApp_OOP\obj\Debug\WindowsFormsApp_OOP.csproj.AssemblyReference.cache
+D:\Laptrinh\C#\WindowsFormsApp_OOP\WindowsFormsApp_OOP\obj\Debug\WindowsFormsApp_OOP.csproj.SuggestedBindingRedirects.cache
+D:\Laptrinh\C#\WindowsFormsApp_OOP\WindowsFormsApp_OOP\obj\Debug\WindowsFormsApp_OOP.Form1.resources
+D:\Laptrinh\C#\WindowsFormsApp_OOP\WindowsFormsApp_OOP\obj\Debug\WindowsFormsApp_OOP.Properties.Resources.resources
+D:\Laptrinh\C#\WindowsFormsApp_OOP\WindowsFormsApp_OOP\obj\Debug\WindowsFormsApp_OOP.csproj.GenerateResource.cache
+D:\Laptrinh\C#\WindowsFormsApp_OOP\WindowsFormsApp_OOP\obj\Debug\WindowsFormsApp_OOP.csproj.CoreCompileInputs.cache
+D:\Laptrinh\C#\WindowsFormsApp_OOP\WindowsFormsApp_OOP\obj\Debug\WindowsFormsApp_OOP.exe
+D:\Laptrinh\C#\WindowsFormsApp_OOP\WindowsFormsApp_OOP\obj\Debug\WindowsFormsApp_OOP.pdb

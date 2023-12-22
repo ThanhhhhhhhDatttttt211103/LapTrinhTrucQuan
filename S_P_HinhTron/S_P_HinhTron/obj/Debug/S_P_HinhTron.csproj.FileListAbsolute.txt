@@ -1,0 +1,11 @@
+D:\Laptrinh\C#\WindowsFormsApp\S_P_HinhTron\S_P_HinhTron\bin\Debug\S_P_HinhTron.exe.config
+D:\Laptrinh\C#\WindowsFormsApp\S_P_HinhTron\S_P_HinhTron\bin\Debug\S_P_HinhTron.exe
+D:\Laptrinh\C#\WindowsFormsApp\S_P_HinhTron\S_P_HinhTron\bin\Debug\S_P_HinhTron.pdb
+D:\Laptrinh\C#\WindowsFormsApp\S_P_HinhTron\S_P_HinhTron\obj\Debug\S_P_HinhTron.csproj.AssemblyReference.cache
+D:\Laptrinh\C#\WindowsFormsApp\S_P_HinhTron\S_P_HinhTron\obj\Debug\S_P_HinhTron.csproj.SuggestedBindingRedirects.cache
+D:\Laptrinh\C#\WindowsFormsApp\S_P_HinhTron\S_P_HinhTron\obj\Debug\S_P_HinhTron.Form1.resources
+D:\Laptrinh\C#\WindowsFormsApp\S_P_HinhTron\S_P_HinhTron\obj\Debug\S_P_HinhTron.Properties.Resources.resources
+D:\Laptrinh\C#\WindowsFormsApp\S_P_HinhTron\S_P_HinhTron\obj\Debug\S_P_HinhTron.csproj.GenerateResource.cache
+D:\Laptrinh\C#\WindowsFormsApp\S_P_HinhTron\S_P_HinhTron\obj\Debug\S_P_HinhTron.csproj.CoreCompileInputs.cache
+D:\Laptrinh\C#\WindowsFormsApp\S_P_HinhTron\S_P_HinhTron\obj\Debug\S_P_HinhTron.exe
+D:\Laptrinh\C#\WindowsFormsApp\S_P_HinhTron\S_P_HinhTron\obj\Debug\S_P_HinhTron.pdb

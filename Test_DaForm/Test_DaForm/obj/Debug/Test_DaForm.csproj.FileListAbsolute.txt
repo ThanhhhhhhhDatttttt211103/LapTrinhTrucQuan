@@ -1,0 +1,11 @@
+D:\Laptrinh\C#\WindowsFormsApp\Test_DaForm\Test_DaForm\bin\Debug\Test_DaForm.exe.config
+D:\Laptrinh\C#\WindowsFormsApp\Test_DaForm\Test_DaForm\bin\Debug\Test_DaForm.exe
+D:\Laptrinh\C#\WindowsFormsApp\Test_DaForm\Test_DaForm\bin\Debug\Test_DaForm.pdb
+D:\Laptrinh\C#\WindowsFormsApp\Test_DaForm\Test_DaForm\obj\Debug\Test_DaForm.csproj.AssemblyReference.cache
+D:\Laptrinh\C#\WindowsFormsApp\Test_DaForm\Test_DaForm\obj\Debug\Test_DaForm.csproj.SuggestedBindingRedirects.cache
+D:\Laptrinh\C#\WindowsFormsApp\Test_DaForm\Test_DaForm\obj\Debug\Test_DaForm.Form1.resources
+D:\Laptrinh\C#\WindowsFormsApp\Test_DaForm\Test_DaForm\obj\Debug\Test_DaForm.Properties.Resources.resources
+D:\Laptrinh\C#\WindowsFormsApp\Test_DaForm\Test_DaForm\obj\Debug\Test_DaForm.csproj.GenerateResource.cache
+D:\Laptrinh\C#\WindowsFormsApp\Test_DaForm\Test_DaForm\obj\Debug\Test_DaForm.csproj.CoreCompileInputs.cache
+D:\Laptrinh\C#\WindowsFormsApp\Test_DaForm\Test_DaForm\obj\Debug\Test_DaForm.exe
+D:\Laptrinh\C#\WindowsFormsApp\Test_DaForm\Test_DaForm\obj\Debug\Test_DaForm.pdb

@@ -1,0 +1,13 @@
+D:\Laptrinh\C#\WindowsFormsApp\Test_Timer\Test_Timer\bin\Debug\Test_Timer.exe.config
+D:\Laptrinh\C#\WindowsFormsApp\Test_Timer\Test_Timer\bin\Debug\Test_Timer.exe
+D:\Laptrinh\C#\WindowsFormsApp\Test_Timer\Test_Timer\bin\Debug\Test_Timer.pdb
+D:\Laptrinh\C#\WindowsFormsApp\Test_Timer\Test_Timer\obj\Debug\Test_Timer.csproj.AssemblyReference.cache
+D:\Laptrinh\C#\WindowsFormsApp\Test_Timer\Test_Timer\obj\Debug\Test_Timer.csproj.SuggestedBindingRedirects.cache
+D:\Laptrinh\C#\WindowsFormsApp\Test_Timer\Test_Timer\obj\Debug\Test_Timer.Form1.resources
+D:\Laptrinh\C#\WindowsFormsApp\Test_Timer\Test_Timer\obj\Debug\Test_Timer.Properties.Resources.resources
+D:\Laptrinh\C#\WindowsFormsApp\Test_Timer\Test_Timer\obj\Debug\Test_Timer.csproj.GenerateResource.cache
+D:\Laptrinh\C#\WindowsFormsApp\Test_Timer\Test_Timer\obj\Debug\Test_Timer.csproj.CoreCompileInputs.cache
+D:\Laptrinh\C#\WindowsFormsApp\Test_Timer\Test_Timer\obj\Debug\Test_Timer.exe
+D:\Laptrinh\C#\WindowsFormsApp\Test_Timer\Test_Timer\obj\Debug\Test_Timer.pdb
+D:\Laptrinh\C#\WindowsFormsApp\Test_Timer\Test_Timer\obj\Debug\QuanLyKhachSan.User_Controls.UC_HoaDon.resources
+D:\Laptrinh\C#\WindowsFormsApp\Test_Timer\Test_Timer\obj\Debug\QuanLyKhachSan.Home.FormHoaDon.resources

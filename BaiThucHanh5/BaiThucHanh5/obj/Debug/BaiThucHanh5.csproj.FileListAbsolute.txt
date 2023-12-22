@@ -1,0 +1,12 @@
+D:\Laptrinh\C#\WindowsFormsApp\BaiThucHanh5\BaiThucHanh5\bin\Debug\BaiThucHanh5.exe.config
+D:\Laptrinh\C#\WindowsFormsApp\BaiThucHanh5\BaiThucHanh5\bin\Debug\BaiThucHanh5.exe
+D:\Laptrinh\C#\WindowsFormsApp\BaiThucHanh5\BaiThucHanh5\bin\Debug\BaiThucHanh5.pdb
+D:\Laptrinh\C#\WindowsFormsApp\BaiThucHanh5\BaiThucHanh5\obj\Debug\BaiThucHanh5.csproj.AssemblyReference.cache
+D:\Laptrinh\C#\WindowsFormsApp\BaiThucHanh5\BaiThucHanh5\obj\Debug\BaiThucHanh5.csproj.SuggestedBindingRedirects.cache
+D:\Laptrinh\C#\WindowsFormsApp\BaiThucHanh5\BaiThucHanh5\obj\Debug\BaiThucHanh5.FormDangNhap.resources
+D:\Laptrinh\C#\WindowsFormsApp\BaiThucHanh5\BaiThucHanh5\obj\Debug\BaiThucHanh5.Properties.Resources.resources
+D:\Laptrinh\C#\WindowsFormsApp\BaiThucHanh5\BaiThucHanh5\obj\Debug\BaiThucHanh5.csproj.GenerateResource.cache
+D:\Laptrinh\C#\WindowsFormsApp\BaiThucHanh5\BaiThucHanh5\obj\Debug\BaiThucHanh5.csproj.CoreCompileInputs.cache
+D:\Laptrinh\C#\WindowsFormsApp\BaiThucHanh5\BaiThucHanh5\obj\Debug\BaiThucHanh5.exe
+D:\Laptrinh\C#\WindowsFormsApp\BaiThucHanh5\BaiThucHanh5\obj\Debug\BaiThucHanh5.pdb
+D:\Laptrinh\C#\WindowsFormsApp\BaiThucHanh5\BaiThucHanh5\obj\Debug\BaiThucHanh5.Form1.resources

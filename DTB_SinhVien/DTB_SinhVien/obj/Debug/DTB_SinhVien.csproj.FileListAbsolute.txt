@@ -1,0 +1,11 @@
+D:\Laptrinh\C#\WindowsFormsApp\DTB_SinhVien\DTB_SinhVien\bin\Debug\DTB_SinhVien.exe.config
+D:\Laptrinh\C#\WindowsFormsApp\DTB_SinhVien\DTB_SinhVien\bin\Debug\DTB_SinhVien.exe
+D:\Laptrinh\C#\WindowsFormsApp\DTB_SinhVien\DTB_SinhVien\bin\Debug\DTB_SinhVien.pdb
+D:\Laptrinh\C#\WindowsFormsApp\DTB_SinhVien\DTB_SinhVien\obj\Debug\DTB_SinhVien.csproj.AssemblyReference.cache
+D:\Laptrinh\C#\WindowsFormsApp\DTB_SinhVien\DTB_SinhVien\obj\Debug\DTB_SinhVien.csproj.SuggestedBindingRedirects.cache
+D:\Laptrinh\C#\WindowsFormsApp\DTB_SinhVien\DTB_SinhVien\obj\Debug\DTB_SinhVien.Form1.resources
+D:\Laptrinh\C#\WindowsFormsApp\DTB_SinhVien\DTB_SinhVien\obj\Debug\DTB_SinhVien.Properties.Resources.resources
+D:\Laptrinh\C#\WindowsFormsApp\DTB_SinhVien\DTB_SinhVien\obj\Debug\DTB_SinhVien.csproj.GenerateResource.cache
+D:\Laptrinh\C#\WindowsFormsApp\DTB_SinhVien\DTB_SinhVien\obj\Debug\DTB_SinhVien.csproj.CoreCompileInputs.cache
+D:\Laptrinh\C#\WindowsFormsApp\DTB_SinhVien\DTB_SinhVien\obj\Debug\DTB_SinhVien.exe
+D:\Laptrinh\C#\WindowsFormsApp\DTB_SinhVien\DTB_SinhVien\obj\Debug\DTB_SinhVien.pdb

@@ -1,0 +1,12 @@
+D:\Laptrinh\C#\WindowsFormsApp\KH_GuiTK\KH_GuiTK\bin\Debug\KH_GuiTK.exe.config
+D:\Laptrinh\C#\WindowsFormsApp\KH_GuiTK\KH_GuiTK\bin\Debug\KH_GuiTK.exe
+D:\Laptrinh\C#\WindowsFormsApp\KH_GuiTK\KH_GuiTK\bin\Debug\KH_GuiTK.pdb
+D:\Laptrinh\C#\WindowsFormsApp\KH_GuiTK\KH_GuiTK\obj\Debug\KH_GuiTK.csproj.AssemblyReference.cache
+D:\Laptrinh\C#\WindowsFormsApp\KH_GuiTK\KH_GuiTK\obj\Debug\KH_GuiTK.csproj.SuggestedBindingRedirects.cache
+D:\Laptrinh\C#\WindowsFormsApp\KH_GuiTK\KH_GuiTK\obj\Debug\KH_GuiTK.Form1.resources
+D:\Laptrinh\C#\WindowsFormsApp\KH_GuiTK\KH_GuiTK\obj\Debug\KH_GuiTK.Properties.Resources.resources
+D:\Laptrinh\C#\WindowsFormsApp\KH_GuiTK\KH_GuiTK\obj\Debug\KH_GuiTK.csproj.GenerateResource.cache
+D:\Laptrinh\C#\WindowsFormsApp\KH_GuiTK\KH_GuiTK\obj\Debug\KH_GuiTK.csproj.CoreCompileInputs.cache
+D:\Laptrinh\C#\WindowsFormsApp\KH_GuiTK\KH_GuiTK\obj\Debug\KH_GuiTK.exe
+D:\Laptrinh\C#\WindowsFormsApp\KH_GuiTK\KH_GuiTK\obj\Debug\KH_GuiTK.pdb
+D:\Laptrinh\C#\WindowsFormsApp\KH_GuiTK\KH_GuiTK\obj\Debug\KH_GuiTK.FormTimKiem.resources

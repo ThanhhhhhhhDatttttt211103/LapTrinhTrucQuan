@@ -1,0 +1,12 @@
+D:\Laptrinh\C#\WindowsFormsApp\QlyBanHang\QlyBanHang\bin\Debug\QlyBanHang.exe.config
+D:\Laptrinh\C#\WindowsFormsApp\QlyBanHang\QlyBanHang\bin\Debug\QlyBanHang.exe
+D:\Laptrinh\C#\WindowsFormsApp\QlyBanHang\QlyBanHang\bin\Debug\QlyBanHang.pdb
+D:\Laptrinh\C#\WindowsFormsApp\QlyBanHang\QlyBanHang\obj\Debug\QlyBanHang.csproj.AssemblyReference.cache
+D:\Laptrinh\C#\WindowsFormsApp\QlyBanHang\QlyBanHang\obj\Debug\QlyBanHang.csproj.SuggestedBindingRedirects.cache
+D:\Laptrinh\C#\WindowsFormsApp\QlyBanHang\QlyBanHang\obj\Debug\QlyBanHang.DanhMuc.FormChatLieu.resources
+D:\Laptrinh\C#\WindowsFormsApp\QlyBanHang\QlyBanHang\obj\Debug\QlyBanHang.Form1.resources
+D:\Laptrinh\C#\WindowsFormsApp\QlyBanHang\QlyBanHang\obj\Debug\QlyBanHang.Properties.Resources.resources
+D:\Laptrinh\C#\WindowsFormsApp\QlyBanHang\QlyBanHang\obj\Debug\QlyBanHang.csproj.GenerateResource.cache
+D:\Laptrinh\C#\WindowsFormsApp\QlyBanHang\QlyBanHang\obj\Debug\QlyBanHang.csproj.CoreCompileInputs.cache
+D:\Laptrinh\C#\WindowsFormsApp\QlyBanHang\QlyBanHang\obj\Debug\QlyBanHang.exe
+D:\Laptrinh\C#\WindowsFormsApp\QlyBanHang\QlyBanHang\obj\Debug\QlyBanHang.pdb

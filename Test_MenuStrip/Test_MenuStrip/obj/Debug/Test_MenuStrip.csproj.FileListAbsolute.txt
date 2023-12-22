@@ -1,0 +1,11 @@
+D:\Laptrinh\C#\WindowsFormsApp\Test_MenuStrip\Test_MenuStrip\bin\Debug\Test_MenuStrip.exe.config
+D:\Laptrinh\C#\WindowsFormsApp\Test_MenuStrip\Test_MenuStrip\bin\Debug\Test_MenuStrip.exe
+D:\Laptrinh\C#\WindowsFormsApp\Test_MenuStrip\Test_MenuStrip\bin\Debug\Test_MenuStrip.pdb
+D:\Laptrinh\C#\WindowsFormsApp\Test_MenuStrip\Test_MenuStrip\obj\Debug\Test_MenuStrip.csproj.AssemblyReference.cache
+D:\Laptrinh\C#\WindowsFormsApp\Test_MenuStrip\Test_MenuStrip\obj\Debug\Test_MenuStrip.csproj.SuggestedBindingRedirects.cache
+D:\Laptrinh\C#\WindowsFormsApp\Test_MenuStrip\Test_MenuStrip\obj\Debug\Test_MenuStrip.Form1.resources
+D:\Laptrinh\C#\WindowsFormsApp\Test_MenuStrip\Test_MenuStrip\obj\Debug\Test_MenuStrip.Properties.Resources.resources
+D:\Laptrinh\C#\WindowsFormsApp\Test_MenuStrip\Test_MenuStrip\obj\Debug\Test_MenuStrip.csproj.GenerateResource.cache
+D:\Laptrinh\C#\WindowsFormsApp\Test_MenuStrip\Test_MenuStrip\obj\Debug\Test_MenuStrip.csproj.CoreCompileInputs.cache
+D:\Laptrinh\C#\WindowsFormsApp\Test_MenuStrip\Test_MenuStrip\obj\Debug\Test_MenuStrip.exe
+D:\Laptrinh\C#\WindowsFormsApp\Test_MenuStrip\Test_MenuStrip\obj\Debug\Test_MenuStrip.pdb

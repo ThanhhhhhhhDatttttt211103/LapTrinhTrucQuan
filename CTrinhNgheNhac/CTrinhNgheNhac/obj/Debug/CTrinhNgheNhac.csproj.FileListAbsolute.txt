@@ -1,0 +1,16 @@
+D:\Laptrinh\C#\WindowsFormsApp\CTrinhNgheNhac\CTrinhNgheNhac\bin\Debug\CTrinhNgheNhac.exe.config
+D:\Laptrinh\C#\WindowsFormsApp\CTrinhNgheNhac\CTrinhNgheNhac\bin\Debug\CTrinhNgheNhac.exe
+D:\Laptrinh\C#\WindowsFormsApp\CTrinhNgheNhac\CTrinhNgheNhac\bin\Debug\CTrinhNgheNhac.pdb
+D:\Laptrinh\C#\WindowsFormsApp\CTrinhNgheNhac\CTrinhNgheNhac\bin\Debug\Interop.WMPLib.dll
+D:\Laptrinh\C#\WindowsFormsApp\CTrinhNgheNhac\CTrinhNgheNhac\bin\Debug\AxInterop.WMPLib.dll
+D:\Laptrinh\C#\WindowsFormsApp\CTrinhNgheNhac\CTrinhNgheNhac\obj\Debug\CTrinhNgheNhac.csproj.AssemblyReference.cache
+D:\Laptrinh\C#\WindowsFormsApp\CTrinhNgheNhac\CTrinhNgheNhac\obj\Debug\CTrinhNgheNhac.csproj.SuggestedBindingRedirects.cache
+D:\Laptrinh\C#\WindowsFormsApp\CTrinhNgheNhac\CTrinhNgheNhac\obj\Debug\Interop.WMPLib.dll
+D:\Laptrinh\C#\WindowsFormsApp\CTrinhNgheNhac\CTrinhNgheNhac\obj\Debug\AxInterop.WMPLib.dll
+D:\Laptrinh\C#\WindowsFormsApp\CTrinhNgheNhac\CTrinhNgheNhac\obj\Debug\CTrinhNgheNhac.csproj.ResolveComReference.cache
+D:\Laptrinh\C#\WindowsFormsApp\CTrinhNgheNhac\CTrinhNgheNhac\obj\Debug\CTrinhNgheNhac.Form1.resources
+D:\Laptrinh\C#\WindowsFormsApp\CTrinhNgheNhac\CTrinhNgheNhac\obj\Debug\CTrinhNgheNhac.Properties.Resources.resources
+D:\Laptrinh\C#\WindowsFormsApp\CTrinhNgheNhac\CTrinhNgheNhac\obj\Debug\CTrinhNgheNhac.csproj.GenerateResource.cache
+D:\Laptrinh\C#\WindowsFormsApp\CTrinhNgheNhac\CTrinhNgheNhac\obj\Debug\CTrinhNgheNhac.csproj.CoreCompileInputs.cache
+D:\Laptrinh\C#\WindowsFormsApp\CTrinhNgheNhac\CTrinhNgheNhac\obj\Debug\CTrinhNgheNhac.exe
+D:\Laptrinh\C#\WindowsFormsApp\CTrinhNgheNhac\CTrinhNgheNhac\obj\Debug\CTrinhNgheNhac.pdb

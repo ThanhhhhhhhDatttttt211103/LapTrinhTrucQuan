@@ -1,0 +1,12 @@
+D:\Laptrinh\C#\WindowsFormsApp\BTTiengAnh\BTTiengAnh\bin\Debug\BTTiengAnh.exe.config
+D:\Laptrinh\C#\WindowsFormsApp\BTTiengAnh\BTTiengAnh\bin\Debug\BTTiengAnh.exe
+D:\Laptrinh\C#\WindowsFormsApp\BTTiengAnh\BTTiengAnh\bin\Debug\BTTiengAnh.pdb
+D:\Laptrinh\C#\WindowsFormsApp\BTTiengAnh\BTTiengAnh\obj\Debug\BTTiengAnh.csproj.AssemblyReference.cache
+D:\Laptrinh\C#\WindowsFormsApp\BTTiengAnh\BTTiengAnh\obj\Debug\BTTiengAnh.csproj.SuggestedBindingRedirects.cache
+D:\Laptrinh\C#\WindowsFormsApp\BTTiengAnh\BTTiengAnh\obj\Debug\BTTiengAnh.Form1.resources
+D:\Laptrinh\C#\WindowsFormsApp\BTTiengAnh\BTTiengAnh\obj\Debug\BTTiengAnh.FormDienTu1.resources
+D:\Laptrinh\C#\WindowsFormsApp\BTTiengAnh\BTTiengAnh\obj\Debug\BTTiengAnh.Properties.Resources.resources
+D:\Laptrinh\C#\WindowsFormsApp\BTTiengAnh\BTTiengAnh\obj\Debug\BTTiengAnh.csproj.GenerateResource.cache
+D:\Laptrinh\C#\WindowsFormsApp\BTTiengAnh\BTTiengAnh\obj\Debug\BTTiengAnh.csproj.CoreCompileInputs.cache
+D:\Laptrinh\C#\WindowsFormsApp\BTTiengAnh\BTTiengAnh\obj\Debug\BTTiengAnh.exe
+D:\Laptrinh\C#\WindowsFormsApp\BTTiengAnh\BTTiengAnh\obj\Debug\BTTiengAnh.pdb

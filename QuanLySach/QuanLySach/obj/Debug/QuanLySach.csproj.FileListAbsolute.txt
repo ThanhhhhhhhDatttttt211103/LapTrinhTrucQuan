@@ -1,0 +1,11 @@
+D:\Laptrinh\C#\WindowsFormsApp\QuanLySach\QuanLySach\bin\Debug\QuanLySach.exe.config
+D:\Laptrinh\C#\WindowsFormsApp\QuanLySach\QuanLySach\bin\Debug\QuanLySach.exe
+D:\Laptrinh\C#\WindowsFormsApp\QuanLySach\QuanLySach\bin\Debug\QuanLySach.pdb
+D:\Laptrinh\C#\WindowsFormsApp\QuanLySach\QuanLySach\obj\Debug\QuanLySach.csproj.AssemblyReference.cache
+D:\Laptrinh\C#\WindowsFormsApp\QuanLySach\QuanLySach\obj\Debug\QuanLySach.csproj.SuggestedBindingRedirects.cache
+D:\Laptrinh\C#\WindowsFormsApp\QuanLySach\QuanLySach\obj\Debug\QuanLySach.Form1.resources
+D:\Laptrinh\C#\WindowsFormsApp\QuanLySach\QuanLySach\obj\Debug\QuanLySach.Properties.Resources.resources
+D:\Laptrinh\C#\WindowsFormsApp\QuanLySach\QuanLySach\obj\Debug\QuanLySach.csproj.GenerateResource.cache
+D:\Laptrinh\C#\WindowsFormsApp\QuanLySach\QuanLySach\obj\Debug\QuanLySach.csproj.CoreCompileInputs.cache
+D:\Laptrinh\C#\WindowsFormsApp\QuanLySach\QuanLySach\obj\Debug\QuanLySach.exe
+D:\Laptrinh\C#\WindowsFormsApp\QuanLySach\QuanLySach\obj\Debug\QuanLySach.pdb

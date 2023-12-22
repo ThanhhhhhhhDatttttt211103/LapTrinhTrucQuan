@@ -1,0 +1,11 @@
+D:\Laptrinh\C#\WindowsFormsApp\ThuDo\ThuDo\bin\Debug\ThuDo.exe.config
+D:\Laptrinh\C#\WindowsFormsApp\ThuDo\ThuDo\bin\Debug\ThuDo.exe
+D:\Laptrinh\C#\WindowsFormsApp\ThuDo\ThuDo\bin\Debug\ThuDo.pdb
+D:\Laptrinh\C#\WindowsFormsApp\ThuDo\ThuDo\obj\Debug\ThuDo.csproj.AssemblyReference.cache
+D:\Laptrinh\C#\WindowsFormsApp\ThuDo\ThuDo\obj\Debug\ThuDo.csproj.SuggestedBindingRedirects.cache
+D:\Laptrinh\C#\WindowsFormsApp\ThuDo\ThuDo\obj\Debug\ThuDo.Form1.resources
+D:\Laptrinh\C#\WindowsFormsApp\ThuDo\ThuDo\obj\Debug\ThuDo.Properties.Resources.resources
+D:\Laptrinh\C#\WindowsFormsApp\ThuDo\ThuDo\obj\Debug\ThuDo.csproj.GenerateResource.cache
+D:\Laptrinh\C#\WindowsFormsApp\ThuDo\ThuDo\obj\Debug\ThuDo.csproj.CoreCompileInputs.cache
+D:\Laptrinh\C#\WindowsFormsApp\ThuDo\ThuDo\obj\Debug\ThuDo.exe
+D:\Laptrinh\C#\WindowsFormsApp\ThuDo\ThuDo\obj\Debug\ThuDo.pdb
